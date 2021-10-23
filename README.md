@@ -1,7 +1,6 @@
 
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
-<<<<<<< HEAD
 ### Purpose
 This project is to get familiar with different functions, formulas and graphs from the module 1 and using those to filter some data of interests from main Kickstarter dataset spreadsheet. 
 In directory 1, pivot table filtered out some data of interests such as the outcomes based on the launch date of Theatre from parent category. Using a line graph can visualize the trends of Theater outcomes like success, failure or cancellation based on their month of launch date. 
