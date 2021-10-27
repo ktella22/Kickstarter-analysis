@@ -11,7 +11,9 @@ All the datasets from the main kickstarter spreadsheet are well organized by so 
 
 ### Analysis of Outcomes Based on Launch Date 
 For this analysis, I made a pivot table that allows me to filter out the outcomes based on the Parent category and the Year of the launch date. I renamed the spreadsheet by “Theater Outcomes by Launch Date”. The data tables included Rows and Columns where rows showed the month of the campaign launch date, and the columns showed the status of the campaign according to our interest in Theater category. A line chart was created based on the datasets from the pivot table that showed Launch Date on X-axis and the counts of outcomes on Y-axis. The image below is the screenshot of the pivot table of a Theater category after the filter.
-![ ](Screenshot images/TheaterOutcomes_LaunchDate)
+
+
+![alt text](Screenshot images/TheaterOutcomes_LaunchDate)
 
 ### Analysis of Outcomes Based on Goals
 To determine the outcomes based on Goals, I created a table that includes different number of outcomes based on different set of funding goals. I used Countifs( ) function to get the correct count of each outcomes. While using this formula, I put together different criteria of Play category in multiple columns that includes different range of Goal, counts of individual outcome and percentage of each campaign outcomes. The screenshot of the data table looked like it below:
