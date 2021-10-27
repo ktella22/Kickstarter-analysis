@@ -16,7 +16,8 @@ For this analysis, I made a pivot table that allows me to filter out the outcome
 
 ### Analysis of Outcomes Based on Goals
 To determine the outcomes based on Goals, I created a table that includes different number of outcomes based on different set of funding goals. I used Countifs( ) function to get the correct count of each outcomes. While using this formula, I put together different criteria of Play category in multiple columns that includes different range of Goal, counts of individual outcome and percentage of each campaign outcomes. The screenshot of the data table looked like it below:
-![ ](Screenshot images/OutcomesBasedonGoals)
+
+![](Screenshot images/OutcomesBasedonGoals)
 
 ### Challenges and Difficulties Encountered
 
