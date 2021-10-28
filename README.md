@@ -12,7 +12,7 @@ All the datasets from the main kickstarter spreadsheet are well organized by so 
 ### Analysis of Outcomes Based on Launch Date 
 For this analysis, I made a pivot table that allows me to filter out the outcomes based on the Parent category and the Year of the launch date. I renamed the spreadsheet by “Theater Outcomes by Launch Date”. The data tables included Rows and Columns where rows showed the month of the campaign launch date, and the columns showed the status of the campaign according to our interest in Theater category. A line chart was created based on the datasets from the pivot table that showed Launch Date on X-axis and the counts of outcomes on Y-axis. The image below is the screenshot of the pivot table of a Theater category after the filter.
 
-![](./Screenshot images/TheaterOutcomes_LaunchDate-1.PNG)
+<img width="250" alt="TheaterOutcomes_LaunchDate-1" src="https://user-images.githubusercontent.com/92502292/139186231-fe432be6-a06e-4d75-b397-af8d8d17c871.PNG">
 
 
 ### Challenges and Difficulties Encountered
