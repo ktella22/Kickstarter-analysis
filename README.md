@@ -14,12 +14,14 @@ For this analysis, I made a pivot table that allows me to filter out the outcome
 
 <img width="250" alt="TheaterOutcomes_LaunchDate-1" src="https://user-images.githubusercontent.com/92502292/139186231-fe432be6-a06e-4d75-b397-af8d8d17c871.PNG">
 
+### Analysis of Outcomes Based on Goals
+To determine the outcomes based on Goals, I created a table that includes different number of outcomes based on different set of funding goals. I used Countifs( ) function to get the correct count of each outcomes. While using this formula, I put together different criteria of Play category in multiple columns that includes different range of Goal, counts of individual outcome and percentage of each campaign outcomes. The screenshot of the data table looked like it below:
+
+<img width="511" alt="OutcomesBasedonGoals" src="https://user-images.githubusercontent.com/92502292/139186378-36e733f9-fcd4-4921-86ef-58306ebc93e1.PNG"> 
 
 ### Challenges and Difficulties Encountered
 
 One challenge I faced was to include a specific criterion when using Countifs statement. I thought it would be enough to count the numbers by using the Countifs formula directly from main kickerstarter spreadsheet. I did not specify condition of each criteria so I had more counts number of outcome than I should have. After that, I made sure to include the range and each criteria such as successful, failed and play category in the formula. 
-
-<img width="511" alt="OutcomesBasedonGoals" src="https://user-images.githubusercontent.com/92502292/139186378-36e733f9-fcd4-4921-86ef-58306ebc93e1.PNG"> 
 
 ## Results
 
