@@ -19,7 +19,7 @@ For this analysis, I made a pivot table that allows me to filter out the outcome
 
 One challenge I faced was to include a specific criterion when using Countifs statement. I thought it would be enough to count the numbers by using the Countifs formula directly from main kickerstarter spreadsheet. I did not specify condition of each criteria so I had more counts number of outcome than I should have. After that, I made sure to include the range and each criteria such as successful, failed and play category in the formula. 
 
-![](./Screenshot images/OutcomesBasedonGoals.PNG) 
+<img width="511" alt="OutcomesBasedonGoals" src="https://user-images.githubusercontent.com/92502292/139186378-36e733f9-fcd4-4921-86ef-58306ebc93e1.PNG"> 
 
 ## Results
 
