@@ -25,7 +25,14 @@ One challenge I faced was to include a specific criterion when using Countifs st
 
 ## Results
 
-- While looking at the generated line chart of Theater Outcomes by Launch Data plot, the number of successful outcomes varies with different launch date. The failed outcomes are stable and steady with a few fluctuations.  Canceled outcomes are low and consistent throughout the whole year. One conclusion is that the success rate is the highest for based on Theater category Launch date to hit the goal during the month of May. As holiday seasons approaches from October, there is a steady decline in the success rate. Second conclusion will be that as December gets by, the chance of getting successful outcomes will be as close as the failing it. 
+### Conclusions about Theater Outcomes by Launch Date 
+- While looking at the generated line chart of Theater Outcomes by Launch Data plot, the number of successful outcomes varies with different launch date. The failed outcomes are stable and steady with a few fluctuations.  Canceled outcomes are low and consistent throughout the whole year. One conclusion is that the success rate is the highest for based on Theater category Launch date to hit the goal during the month of May. As holiday seasons approaches from October, there is a steady decline in the success rate. Second conclusion will be that as December gets by, the chance of getting successful outcomes will be as close as the failing it.
+
+### Outcomes based on Goals conclusion  
 - According to the line chart of Outcomes based on Goal, it is a high risk setting the higher goals and the outcomes will be a higher failing rate. To get at least consistent 50% success rate, the funding goal should be set less than $20,000. 
+
+### Limitations of the dataset 
 - On Theater Outcomes by Launch Date spreadsheet, the canceled outcomes for Theater category was not available for the month of October. With the missing data for the October month, it will be limited to make an educated decisions whether if this missing information will impact on other outcomes for further analysis. 
+
+### Other possibilites about tables or graphs 
 - It is also interesting to see a graph of percentage funded based on Parent category. So that it will be helpful for viewers to organize and see which category was funded higher or lower. Additional pivot table that filters the data of funding goal based on country. A plot like this can give an idea of setting the funding goal based on the population or the size of the country. 
